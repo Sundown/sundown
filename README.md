@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/68310182/124480510-71c1fb00-ddfb-11eb-9017-c0f68b21c4fe.jpeg" alt="warning" width="350" align="right"/>
+<img src="https://user-images.githubusercontent.com/68310182/124480884-d4b39200-ddfb-11eb-8560-f88c901b5c8e.jpeg" alt="warning" width="350" align="right"/>
 
 Name's a secret. 
 
