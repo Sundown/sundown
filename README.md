@@ -3,5 +3,3 @@
 Studying science. 
 
 Interested in all things language related. 
-
-Don't get too excited about commit graph, it's just homework.
