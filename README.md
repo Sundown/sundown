@@ -1,5 +1,7 @@
-<img src="https://user-images.githubusercontent.com/68310182/124480884-d4b39200-ddfb-11eb-8560-f88c901b5c8e.jpeg" alt="warning" width="85" align="left"/>
+<img src="https://raw.githubusercontent.com/Sundown/sundown/master/programminglanguage.png" alt="Great idea" width="85" align="left"/>
 
-Studying science. 
+Scientia et lingua studeo. 
 
-Interested in all things language related. 
+Interested in languages. 
+
+Check out [Solution](github.com/sundown/Solution); the future soon to be realised. 
