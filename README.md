@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Sundown/sundown/master/programminglanguage.png" alt="Great idea" width="250" align="left"/>
 
-Scientia et lingua studeo. 
+Discipulus scientiae et linguae. 
 
 Interested in languages. 
 
