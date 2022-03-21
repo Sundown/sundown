@@ -2,4 +2,4 @@
 
 Interested in languages. 
 
-Check out [Solution](github.com/sundown/Solution)
+Check out [Solution](https://github.com/sundown/Solution)
