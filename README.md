@@ -4,7 +4,7 @@ Student of Computer Science and Linguistics, but not computational-linguistics.
 
 Interested in all languages of all types. 
 
-Check out [Solution](https://github.com/sundown/Solution)
+Check out [Solution](https://github.com/sundown/Solution) (currently undergoing R*st rewrite on other branch)
 
 ```swift
 Avg { ← (+/ ÷ ≢) ⍵; }
