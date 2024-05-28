@@ -5,9 +5,5 @@ Student of Computer Science and Linguistics, but not computational-linguistics. 
 Check out [Solution](https://github.com/sundown/Solution) (not recommended)
 
 ```swift
-Avg { ← (+/ ÷ ≢) ⍵; }
-
-Neq { ← ~ ⍺ = ⍵; }
-
-Same { ← =/ ⍵; }
+Avg (+/÷≢) ⍵;
 ```
